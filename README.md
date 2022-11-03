@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anouaressa
 - 👀 I’m interested in DevOps and backend development
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on I'm looking to collaborate on any open source project 
+- 💞️ I'm looking to collaborate on any open source project 
 
 
 <!---
