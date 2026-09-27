@@ -1,40 +1,59 @@
-<!---
-- 👋 Hi, I’m @anouaressa
-- 👀 I’m interested in DevOps and development
-- 🌱 I’m currently learning software engineering
-- 💞️ I'm looking to collaborate on any open source project 
+<div align="center">
 
+# Hi, I’m Anouar Essabbari 👋
 
+### Site Reliability Engineer · Cloud & Platform Engineering
 
-- 📫 How to reach me ...
-anouaressa/anouaressa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Anouar Essabbari</h1>
-<h3 align="center">I'am software engineering interested in DevOps  </h3>
-<h3 align="center">- 🌱 I'm looking to collaborate on any open source project  </h2>
+I build and operate reliable platforms across cloud and on-premise environments. My work focuses on Kubernetes, infrastructure automation, observability, safe delivery, and making production systems easier to run.
 
+[LinkedIn](https://www.linkedin.com/in/anouar-essabbari-23b612216/) · [Medium](https://medium.com/@anouaressabbari) · [Email](mailto:anouaressabbari@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anouaressa&label=Profile%20views&color=0e75b6&style=flat" alt="anouaressa" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anouaressa" alt="anouaressa" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## What I focus on
 
-- 📝 I regularly write articles on [https://medium.com/@anouaressabbari](https://medium.com/@anouaressabbari)
+- **Reliability:** production Linux, highly available Kubernetes, upgrades, disaster recovery, and operational readiness.
+- **Automation:** repeatable infrastructure and configuration with Terraform, Ansible, Bash, and Python.
+- **Delivery:** CI/CD and GitOps workflows with GitHub Actions, GitLab CI, Jenkins, and Argo CD.
+- **Observability:** metrics, logs, traces, and alerting with Prometheus, Grafana, ELK, Loki, and Jaeger.
+- **Security:** practical hardening, secrets management, network policies, and admission controls.
 
-- 📫 How to reach me **anouaressabbari@gmail.com**
+## Technology toolkit
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anouar essabbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anouar essabbari" height="30" width="40" /></a>
-</p>
+| Area | Tools and technologies |
+|---|---|
+| **Cloud** | AWS (EC2, VPC, IAM, S3), GCP (GKE, Compute Engine), Azure (foundational) |
+| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
+| **Containers & orchestration** | Docker, Kubernetes (EKS, GKE, RKE2, kubeadm), Rancher, Helm |
+| **CI/CD & GitOps** | GitHub Actions, GitLab CI, Jenkins, Argo CD |
+| **Observability** | Prometheus, Grafana, ELK Stack, Loki, Jaeger |
+| **Linux & scripting** | Ubuntu, RHEL, CentOS, Bash, Python, Go |
+| **Networking** | Nginx, Traefik, HAProxy, Calico, Cilium, Istio |
+| **Security & policy** | Vault, Kyverno, OPA, Kubernetes network policies |
+| **Data & virtualization** | MongoDB, MySQL, PostgreSQL, Proxmox, KVM |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## Selected projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouaressa&show_icons=true&locale=en&layout=compact" alt="anouaressa" /></p>
+- **[shadowd](https://github.com/anouaressa/shadowd)** — Lightweight file versioning and rollback with deduplicated snapshots, directory tracking, a CLI, and a browser dashboard. Built in Go.
+- **[layerfs-simulator](https://github.com/anouaressa/layerfs-simulator)** — A small Go project exploring the layered behavior behind OverlayFS.
+- **[ansible_mysql_migration](https://github.com/anouaressa/ansible_mysql_migration)** — An Ansible playbook for migrating a MySQL database between servers.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anouaressa&show_icons=true&locale=en" alt="anouaressa" /></p>
+## Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anouaressa&" alt="anouaressa" /></p>
+- **Site Reliability Engineer · MediotAI** — Building and operating GKE and on-premise Kubernetes platforms; improving GitOps delivery, observability, recovery, and platform security. *(Feb 2025–Present · Casablanca, Morocco)*
+- **Cloud / DevOps Engineer · Convotis** — Provisioned AWS infrastructure with Terraform and CloudFormation, automated operations with Ansible, and supported CI/CD and observability. *(Sep 2024–Feb 2025 · Fes, Morocco)*
+- **DevOps Infrastructure Intern · Xhub** — Helped migrate applications to Kubernetes, build clusters, and automate container delivery. *(Mar 2024–Aug 2024 · Casablanca, Morocco)*
+
+## How I work
+
+I value automation that reduces operational toil, observability that helps people make decisions, and changes that are safe to deploy and recover. I enjoy collaborating across development and operations, documenting what matters, and contributing to useful open-source projects.
+
+---
+
+<div align="center">
+
+**Based in Morocco · Open to thoughtful collaboration**
+
+</div>
